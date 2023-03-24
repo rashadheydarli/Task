@@ -1,0 +1,23 @@
+header {
+    text-align: center; 
+}
+p {
+    font-size: 1.4em;
+}
+section{
+    padding:20px;
+    text-align: justify;
+}
+img {
+    height: auto;
+    width: 100%;
+}
+h1 {
+    font-family: 'Mitr', sans-serif;
+    font-weight: 400;
+    font-size: 2.5em;
+}
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
